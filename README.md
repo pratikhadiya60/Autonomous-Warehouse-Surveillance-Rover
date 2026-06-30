@@ -18,7 +18,7 @@ A ROS-based autonomous warehouse surveillance robot designed for autonomous navi
 
 The project consists of both the complete software stack (ROS workspaces) and the hardware design files (mechanical CAD, electrical schematics, BOM, and demonstration videos).
 
----
+----
 
 # Features
 
