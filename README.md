@@ -1,15 +1,17 @@
 # Autonomous Warehouse Surveillance
 
-<table>
+<table align="center">
 <tr>
 <td align="center">
-<img src="images/image1.png" width="300"><br>
-<b>1. cad modal</b>
+<img src="Demo/cover_image.png" width="350"><br>
+<b>1. cad model of the bot</b><br>
+cad
 </td>
 
 <td align="center">
-<img src="images/image2.png" width="300"><br>
-<b>2. real bot</b>
+<img src="Demo/cover_image.pngs" width="350"><br>
+<b>2. bot assembly</b><br>
+real
 </td>
 </tr>
 </table>
