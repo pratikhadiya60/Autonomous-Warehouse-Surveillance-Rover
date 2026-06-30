@@ -4,14 +4,12 @@
 <tr>
 <td align="center">
 <img src="Demo/cover_image.png" width="350"><br>
-<b>1. cad model of the bot</b><br>
-cad
+<b>software assembly</b><br>
 </td>
 
 <td align="center">
-<img src="Demo/cover_image.pngs" width="350"><br>
-<b>2. bot assembly</b><br>
-real
+<img src="Demo/final_bot.png" width="350"><br>
+<b>hardware assembly</b><br>
 </td>
 </tr>
 </table>
