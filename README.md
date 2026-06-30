@@ -1,5 +1,10 @@
 # Autonomous Warehouse Surveillance
 
+<p align="center">
+  <img src="Demo/cover_image.png" width="600">
+</p>
+
+
 A ROS-based autonomous warehouse surveillance robot designed for autonomous navigation, environment mapping, obstacle avoidance, remote monitoring, and real-time data logging.
 
 The project consists of both the complete software stack (ROS workspaces) and the hardware design files (mechanical CAD, electrical schematics, BOM, and demonstration videos).
@@ -240,9 +245,9 @@ git lfs pull
 
 ### Team Members
 
-1. Syed Naqi Abbas
-2. Harshit Kalra
-3. Shlok Narayan Vaidya
-4. Gouri Chandra Tiwary
-5. Pratik Hadiya
+1. Pratik Hadiya
+2. Syed Naqi Abbas
+3. Harshit Kalra
+4. Shlok Narayan Vaidya
+5. Gouri Chandra Tiwary
 6. Piyush Goyal
