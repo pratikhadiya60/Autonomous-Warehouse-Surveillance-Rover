@@ -1,6 +1,6 @@
 # Autonomous Warehouse Surveillance
 
-<p align="center">
+<p align="left">
   <img src="Demo/cover_image.png" width="600">
 </p>
 
