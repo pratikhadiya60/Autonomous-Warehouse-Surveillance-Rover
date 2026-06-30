@@ -1,12 +1,18 @@
 # Autonomous Warehouse Surveillance
 
-<p align="left">
-  <img src="Demo/cover_image.png" width="200">
-</p>
+<table>
+<tr>
+<td align="center">
+<img src="images/image1.png" width="300"><br>
+<b>1. cad modal</b>
+</td>
 
-<p align="right">
-  <img src="Demo/cover_image.png" width="200">
-</p>
+<td align="center">
+<img src="images/image2.png" width="300"><br>
+<b>2. real bot</b>
+</td>
+</tr>
+</table>
 
 A ROS-based autonomous warehouse surveillance robot designed for autonomous navigation, environment mapping, obstacle avoidance, remote monitoring, and real-time data logging.
 
